@@ -1,4 +1,3 @@
-Compreendido, aqui está o texto sem a seção "Community Support":
 
 # Community Hub README
 
