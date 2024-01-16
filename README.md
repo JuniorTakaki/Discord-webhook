@@ -31,6 +31,7 @@ For inquiries, contact moderators or administrators through direct messages or t
 
 ## Webhook Notification
 
-Stay informed about community updates by setting up our webhook on your Discord server. Receive instant notifications about announcements, events, and more. [Add Webhook](#your_webhook_link_here)
+Stay informed about community updates by setting up our webhook on your Discord server. Receive instant notifications about announcements, events, and more. 
+[Add Webhook](https://discord.com/api/webhooks/1195884158443073586/K39vPGVSnvu4iUkzGMD8kTFdIzOe9gyuvgJYMKfe-X0II9T7W-38I5ltP2gYuc5_oE3m).
 
 Thank you for being a part of our growing community! Happy coding! 🚀
