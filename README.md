@@ -1,4 +1,3 @@
-
 # Community Hub README
 
 Welcome to our Community Hub! 🚀
@@ -11,7 +10,7 @@ Thank you for joining our vibrant and dynamic community! This hub serves as a ce
 
 To begin, follow these simple steps:
 
-1. Join our community by clicking on [Discord](https://discord.gg/SrHZYHjp6v).
+1. Join our community by clicking on [Discord](https://discord.com/invite/2cpHjCjR9t).
 2. Read and accept the rules to gain access to all channels.
 3. Introduce yourself in the #introductions channel.
 4. Explore various channels and engage in discussions.
@@ -29,5 +28,9 @@ We encourage members to actively contribute by sharing knowledge, engaging in di
 For inquiries, contact moderators or administrators through direct messages or the #contact-moderators channel.
 
 **Note: This community page is designed to provide a seamless interaction between the webpage and community activities.**
+
+## Webhook Notification
+
+Stay informed about community updates by setting up our webhook on your Discord server. Receive instant notifications about announcements, events, and more. [Add Webhook](#your_webhook_link_here)
 
 Thank you for being a part of our growing community! Happy coding! 🚀
